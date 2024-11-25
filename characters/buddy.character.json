@@ -1,6 +1,6 @@
 {
   "name": "Buddy",
-  "clients": [],
+  "clients": ["discord", "direct"],
   "modelProvider": "openai",
   "settings": {
     "secrets": {},
